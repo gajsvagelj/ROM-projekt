@@ -3,8 +3,11 @@
 ## Opis projekta:
 
 V tem projektu bom analiziral porabo toplotne energije, ki je potrebna za vzdrževanje notranje temperature 20 °C v stanovanjskem objektu med kurilno sezono. 
+
 Podatke o povprečnih dnevnih temperaturah za izbrani kraj bom pridobil in obdelal v programu Mathematica.
+
 Analiziral bom gibanje temperatur skozi zimo in ugotovil temperaturni primanjkljaj za vsak posamezen dan.
+
 Vključil bom podatek koliko toplote izgublja stavba.
 
 
