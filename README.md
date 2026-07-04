@@ -20,6 +20,12 @@ Vključil bom podatek koliko toplote izgublja stavba.
 4. Grafični prikaz gibanja temperatur in vizualizacija obdobij, ko je potrebno ogrevanje.
 5. Izračun celotne porabljene toplotne energije za izbrano stavbo.
 
+## Posnetek predstavitve
+
+https://youtu.be/Mix1etlCA5I
+
+
+
 ## Aplikacija
 Pri projektu sem pripravil aplikacijo v Wolfram cloud. Dostopna je na spodnjem naslovu:
 
