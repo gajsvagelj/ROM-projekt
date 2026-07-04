@@ -19,3 +19,8 @@ Vključil bom podatek koliko toplote izgublja stavba.
 3. Določitev lastnosti stavbe (ciljna notranja temperatura in toplotne izgube).
 4. Grafični prikaz gibanja temperatur in vizualizacija obdobij, ko je potrebno ogrevanje.
 5. Izračun celotne porabljene toplotne energije za izbrano stavbo.
+
+## Aplikacija
+Pri projektu sem pripravil aplikacijo v Wolfram cloud. Dostopna je na spodnjem naslovu:
+
+https://www.wolframcloud.com/obj/e5d6dcee-e810-46e0-962e-ce500b8db420
